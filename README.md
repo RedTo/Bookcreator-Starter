@@ -1,6 +1,6 @@
-# bookcreator-starter
+# Bookcreator-Starter
 
-**Clone and run for a quick way to see app.bookcreator.com in action. Without installing Chrome.**
+**Clone and run for a quick way to see [app.bookcreator.com](http://app.bookcreator.com) in action. Without installing Chrome.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
